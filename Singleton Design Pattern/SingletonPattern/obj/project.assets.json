@@ -1,0 +1,65 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net5.0": []
+  },
+  "packageFolders": {
+    "/home/md-wahid/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/media/md-wahid/Projects And Others/Ubuntu/Home/Public/Projects/C#/Design-Pattern/Singleton Design Pattern/SingletonPattern/SingletonPattern.csproj",
+      "projectName": "SingletonPattern",
+      "projectPath": "/media/md-wahid/Projects And Others/Ubuntu/Home/Public/Projects/C#/Design-Pattern/Singleton Design Pattern/SingletonPattern/SingletonPattern.csproj",
+      "packagesPath": "/home/md-wahid/.nuget/packages/",
+      "outputPath": "/media/md-wahid/Projects And Others/Ubuntu/Home/Public/Projects/C#/Design-Pattern/Singleton Design Pattern/SingletonPattern/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/md-wahid/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

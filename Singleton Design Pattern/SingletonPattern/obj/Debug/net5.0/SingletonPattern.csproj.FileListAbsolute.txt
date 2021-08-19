@@ -1,0 +1,16 @@
+/media/md-wahid/Projects And Others/Ubuntu/Home/Public/Projects/C#/Design-Pattern/Singleton Design Pattern/SingletonPattern/bin/Debug/net5.0/SingletonPattern
+/media/md-wahid/Projects And Others/Ubuntu/Home/Public/Projects/C#/Design-Pattern/Singleton Design Pattern/SingletonPattern/bin/Debug/net5.0/SingletonPattern.deps.json
+/media/md-wahid/Projects And Others/Ubuntu/Home/Public/Projects/C#/Design-Pattern/Singleton Design Pattern/SingletonPattern/bin/Debug/net5.0/SingletonPattern.runtimeconfig.json
+/media/md-wahid/Projects And Others/Ubuntu/Home/Public/Projects/C#/Design-Pattern/Singleton Design Pattern/SingletonPattern/bin/Debug/net5.0/SingletonPattern.runtimeconfig.dev.json
+/media/md-wahid/Projects And Others/Ubuntu/Home/Public/Projects/C#/Design-Pattern/Singleton Design Pattern/SingletonPattern/bin/Debug/net5.0/SingletonPattern.dll
+/media/md-wahid/Projects And Others/Ubuntu/Home/Public/Projects/C#/Design-Pattern/Singleton Design Pattern/SingletonPattern/bin/Debug/net5.0/ref/SingletonPattern.dll
+/media/md-wahid/Projects And Others/Ubuntu/Home/Public/Projects/C#/Design-Pattern/Singleton Design Pattern/SingletonPattern/bin/Debug/net5.0/SingletonPattern.pdb
+/media/md-wahid/Projects And Others/Ubuntu/Home/Public/Projects/C#/Design-Pattern/Singleton Design Pattern/SingletonPattern/obj/Debug/net5.0/SingletonPattern.csproj.AssemblyReference.cache
+/media/md-wahid/Projects And Others/Ubuntu/Home/Public/Projects/C#/Design-Pattern/Singleton Design Pattern/SingletonPattern/obj/Debug/net5.0/SingletonPattern.GeneratedMSBuildEditorConfig.editorconfig
+/media/md-wahid/Projects And Others/Ubuntu/Home/Public/Projects/C#/Design-Pattern/Singleton Design Pattern/SingletonPattern/obj/Debug/net5.0/SingletonPattern.AssemblyInfoInputs.cache
+/media/md-wahid/Projects And Others/Ubuntu/Home/Public/Projects/C#/Design-Pattern/Singleton Design Pattern/SingletonPattern/obj/Debug/net5.0/SingletonPattern.AssemblyInfo.cs
+/media/md-wahid/Projects And Others/Ubuntu/Home/Public/Projects/C#/Design-Pattern/Singleton Design Pattern/SingletonPattern/obj/Debug/net5.0/SingletonPattern.csproj.CoreCompileInputs.cache
+/media/md-wahid/Projects And Others/Ubuntu/Home/Public/Projects/C#/Design-Pattern/Singleton Design Pattern/SingletonPattern/obj/Debug/net5.0/SingletonPattern.dll
+/media/md-wahid/Projects And Others/Ubuntu/Home/Public/Projects/C#/Design-Pattern/Singleton Design Pattern/SingletonPattern/obj/Debug/net5.0/ref/SingletonPattern.dll
+/media/md-wahid/Projects And Others/Ubuntu/Home/Public/Projects/C#/Design-Pattern/Singleton Design Pattern/SingletonPattern/obj/Debug/net5.0/SingletonPattern.pdb
+/media/md-wahid/Projects And Others/Ubuntu/Home/Public/Projects/C#/Design-Pattern/Singleton Design Pattern/SingletonPattern/obj/Debug/net5.0/SingletonPattern.genruntimeconfig.cache
