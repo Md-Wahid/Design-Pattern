@@ -1,0 +1,91 @@
+@model NonGenericRepositoryPattern.Models.Employee
+
+@{
+    ViewBag.Title = "Add Employee";
+}
+
+<div class="row">
+    <div class="col-md-6">
+        <form asp-action="AddEmployee" method="post">
+            @Html.AntiForgeryToken()
+
+                <h4>Add Employee</h4>
+                <hr />
+                @Html.ValidationSummary(true)
+
+                <div class="form-group">
+                    <label asp-for="Name"></label>
+                    <input asp-for="Name" class="form-control" placeholder="Employee Name">
+                    <span asp-validation-for="Name"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Gender"></label>
+                    @* <input asp-for="Gender" class="form-control" placeholder="Employee Gender"> *@
+
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" asp-for="Gender" id="Gender1" value="Male">
+                    <label class="form-check-label" asp-for="Gender" for="Gender1">
+                        Male
+                    </label>
+                </div>
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" asp-for="Gender" id="Gender2" value="Female">
+                    <label class="form-check-label" asp-for="Gender" for="Gender2">
+                        Female
+                    </label>
+                </div>
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" asp-for="Gender" id="Gender3" value="Other">
+                    <label class="form-check-label" asp-for="Gender" for="Gender3">
+                        Other
+                    </label>
+                </div>
+
+                    <span asp-validation-for="Gender"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Salary"></label>
+                    <input asp-for="Salary" class="form-control" placeholder="Employee Salary">
+                    <span asp-validation-for="Salary"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Dept"></label>
+                    <input asp-for="Dept" class="form-control" placeholder="Employee Dept">
+                    <span asp-validation-for="Dept"></span>
+                </div>
+                @* <div class="form-group">
+                    <label for="exampleFormControlSelect1">Example select</label>
+                    <select class="form-control" id="exampleFormControlSelect1">
+                    <option>1</option>
+                    <option>2</option>
+                    <option>3</option>
+                    <option>4</option>
+                    <option>5</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="exampleFormControlSelect2">Example multiple select</label>
+                    <select multiple class="form-control" id="exampleFormControlSelect2">
+                    <option>1</option>
+                    <option>2</option>
+                    <option>3</option>
+                    <option>4</option>
+                    <option>5</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="exampleFormControlTextarea1">Example textarea</label>
+                    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+                </div> *@
+
+                <div class="form-group">
+                    <input type="submit" value="Save" class="btn btn-success" />
+                    @Html.ActionLink("Back to Employee List", "Index", "Employee", "", new { @class="btn btn-secondary"})
+                </div>
+        </form>
+
+    </div>
+</div>
+
+@section Scripts {
+}
